@@ -1,5 +1,6 @@
 # Debug Dash
 
+![Gameplay Screenshot](Projektas/MainMeniu.png)
 
 # Mūsų projekto komandos nariai
 Kauno Technologijos Universiteto Informatikos fakulteto studentai:
