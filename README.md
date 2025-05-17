@@ -12,7 +12,7 @@ Kauno Technologijos Universiteto Informatikos fakulteto studentai:
 
 
 # Projekto aprašymas
-Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas yra išgyventi kuo įmanoma ilgesnį laiką neatsitrenkiant į kliūtį, bent vienas atsitrenkimas klūtį reiškia automatinę žaidėjo mirtį. Žaidėjas žadimo metu taip pat renka bonusus, kurie padeda jam ilgiau išgyventi ir auksines monetas kurias galima keisti į prekes žaidimo parduotuvėje. Žaidimo sudėtingumas didėja bėgant laikui.
+Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas yra išgyventi kuo įmanoma ilgesnį laiką neatsitrenkiant į kliūtį, bent vienas atsitrenkimas į kliūtį reiškia automatinę žaidėjo mirtį. Žaidėjas žadimo metu taip pat renka bonusus, kurie padeda jam ilgiau išgyventi ir auksines monetas kurias galima keisti į prekes žaidimo parduotuvėje. Žaidimo sudėtingumas didėja bėgant laikui.
 
 # Techninis aprašymas
 
@@ -39,5 +39,8 @@ Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas 
 ----
 
 # Žaidimo taisyklės
+
+Žaidimas pradedamas iš pradinio meniu lango paspaudžius „Play“. Po to pereinama į sceną kurioje žmogeliukas automatiškai jau bėga:
+![Gameplay Screenshot](Packages/MainMeniu.png)
 
 # Vartotojo dokumentacija
