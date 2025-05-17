@@ -38,5 +38,6 @@ Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas 
 
 ----
 
-# Vartotojo dokumentacija
+# Žaidimo taisyklės
 
+# Vartotojo dokumentacija
