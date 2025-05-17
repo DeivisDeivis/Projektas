@@ -2,7 +2,7 @@
 
 ![Gameplay Screenshot](Packages/MainMeniu.png)
 
-# Mūsų projekto komandos nariai
+## Mūsų projekto komandos nariai
 Kauno Technologijos Universiteto Informatikos fakulteto studentai:
 
 - Požerskas Saulius
@@ -11,10 +11,10 @@ Kauno Technologijos Universiteto Informatikos fakulteto studentai:
 - Paulauskis Deividas
 
 
-# Projekto aprašymas
+## Projekto aprašymas
 Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas yra išgyventi kuo įmanoma ilgesnį laiką neatsitrenkiant į kliūtį, bent vienas atsitrenkimas į kliūtį reiškia automatinę žaidėjo mirtį. Žaidėjas žadimo metu taip pat renka bonusus, kurie padeda jam ilgiau išgyventi ir auksines monetas kurias galima keisti į prekes žaidimo parduotuvėje. Žaidimo sudėtingumas didėja bėgant laikui.
 
-# Techninis aprašymas
+## Techninis aprašymas
 
 Žaidimas buvo sukurtas pasinaudojus Unity žaidimų kūrimo įrankių. Projekto valdymui ir komandos darbui buvo pasitelktos priemonės: „JIRA“, „Discord“, „Unity Version Control“. Pasiekti pagrdindiniai techniniai tikslai žaidimo kūrimo metu (ne eilės tvarka):
 
@@ -34,11 +34,11 @@ Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas 
 - Sukurti mygtukų dizainus
 - Suprogramuoti mygtukų funkcionalumą
 
-# Projekto testavimas
+## Projekto testavimas
 
 ----
 
-# Žaidimo taisyklės
+## Žaidimo taisyklės
 
 Žaidimas pradedamas iš pradinio meniu lango paspaudžius „Play“. Po to pereinama į sceną kurioje žmogeliukas automatiškai jau bėga:
 ![Gameplay Screenshot](Packages/Zmogeliukas.png)
@@ -53,5 +53,8 @@ Taip pat yra kitokio tipo kliūtys, kurių žaidėjas gali išvengti tik tūpdam
 - Laidas
 - Virus
 
-Žaidėjas, vengdamas kliūčių taip pat stengiasi surinkti bonusus
+Žaidėjas, vengdamas kliūčių taip pat stengiasi surinkti bonusus:
+- BonusP (Bonusas kuris duoda žaidėjui atsparumą kliūtims 2 sekundes)
+- BonusB (Bonusas kuris duoda žaidėjui dvigubai aukštesnį šokimo efektą 2 sekundes)
+- BonusY(
 ## Vartotojo dokumentacija
