@@ -59,7 +59,7 @@ Taip pat yra kitokio tipo kliūtys, kurių žaidėjas gali išvengti tik tūpdam
 
 Žaidėjas, vengdamas kliūčių taip pat stengiasi surinkti bonusus:
 - BonusP (Bonusas, kuris duoda žaidėjui atsparumą kliūtims 2 sekundes)
-![Gameplay Screenshot](Packages/lightning.png)
+![Gameplay Screenshot](Packages/vanish.png)
 - BonusB (Bonusas, kuris duoda žaidėjui dvigubai aukštesnį šokimo efektą 2 sekundes)
 ![Gameplay Screenshot](Packages/jump.png)
 - BonusY(Bonusas, kuris duoda žaidėjui +10 auksinių monetų)
