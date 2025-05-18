@@ -46,8 +46,11 @@ Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas 
 
 Žaidimo scenoje yra matomos įvairios kliūtys, kurios sukelia automatinę mirtį, šių kliūčių galima išvengti tik peršokus per jas, spaudžiant SpaceBar klaviatūroje:
 - Pabaisa 1
+![Gameplay Screenshot](Packages/Pabaisa4.png)
 - Pabaisa 2
+![Gameplay Screenshot](Packages/Pabaisa5.png)
 - Pabaisa 3
+![Gameplay Screenshot](Packages/Pabaisa6.png)
 
 Taip pat yra kitokio tipo kliūtys, kurių žaidėjas gali išvengti tik tūpdamas, spaudžiant Down Arrow ↓ :
 - Laidas
