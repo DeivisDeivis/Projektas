@@ -96,27 +96,27 @@ Taip pat yra kitokio tipo kliūtys, kurių žaidėjas gali išvengti tik atsitū
 
 ![image](https://github.com/user-attachments/assets/242b29b9-ef2c-42bc-b48e-05cd531f9650)
 
-Pasirinkus Play, pereinama į žaidimo sceną kurioje žaidimo herojus jau bėga:
+Pasirinkus Play, pereinama į žaidimo sceną, kurioje žaidimo herojus pradeda bėgimą:
 
 ![image](https://github.com/user-attachments/assets/1f5c270f-6a57-4752-b005-4d2747ef8aad)
 
-Kai žaidėjas pasirenka bonusą, žaidime atsiranda laiko juosta, kuri parodo bonuso veikimo trukmę ir po 2 sekundžių dingsta
+Kai žaidėjas paima bonusą, žaidime atsiranda laiko juosta, kuri parodo bonuso veikimo trukmę ir po 2 sekundžių dingsta
 
 ![Gameplay Screenshot](Packages/duration.png)
 
-Kai žaidėjas atsitrenkia į kurią nors kliūtį, jis miršta. Tada galime rinktis ar norime tęsti toliau žaidimą paspaudę Restart ar grįžti atgal į pradinį meniu paspaudę Back
+Kai žaidėjas atsitrenkia į kurią nors kliūtį, jis miršta. Tada galime rinktis ar norime bėgti iš naujo paspaudę Restart ar grįžti atgal į pradinį meniu paspaudę Back
 
 ![image](https://github.com/user-attachments/assets/c7237121-193a-432b-8eb5-d4b24f55c17f)
 
-Pradinio meniu lange pasirinkus shop skiltį matome tokį vaizdą. Už surinktas auksines monetas galime nusipirkti naują veikėjo išvaizdą arba naujas kliūtis, kurios pasirodys žaidimo metu. Pasirinkus norimą prekę, kitos prekės nebus galima nusipirkti pokol nebūsime paspaudę unequip mgytuką, jei norime atgauti atgal savo išleistas auksines monetas ir atsisakyti jau pasirinktų prekių, spaudžiame Refund All Items mygtuką. Paspaudę Back mygtuką grįžtame atgal į pradinio meniu vaizdą.
+Pradinio meniu lange pasirinkus Shop skiltį matome parduotuvės vaizdą. Už surinktas auksines monetas galime nusipirkti naują veikėjo išvaizdą arba naujas kliūtis, kurios pasirodys žaidimo metu. Nusipirkus norimą išvaizdą, galima ją atstatyti į numatytąją paspaudus Unequip, jei norime atgauti savo išleistas auksines monetas ir atsisakyti jau nupirktų prekių, spaudžiame Refund All Items mygtuką. Paspaudę Back mygtuką grįžtame atgal į pradinio meniu vaizdą.
 
 ![image](https://github.com/user-attachments/assets/a341b116-881f-4b32-9539-f93cfe805635)
 
-Paspaudžius ant Options mgytuko gausime pasirinkimą nustatyti žaidimo garsą, tempdami garso juostą iš kairės į dešinę norint garsą padidinti arba iš dešinės į kairę norint garsą sumažinti. Taip pat Options lange galime ir nustatyti iš naujo visus žaidimo duomenis: High Score, Score ir auksinių monetų kiekį.
+Paspaudus ant Options mgytuko gausime pasirinkimą nustatyti žaidimo garsą, tempdami garso juostą iš kairės į dešinę norint garsą padidinti arba iš dešinės į kairę norint garsą sumažinti. Taip pat Options lange galime išvalyti visus žaidimo duomenis: High Score ir auksinių monetų kiekį.
 
 ![image](https://github.com/user-attachments/assets/04dc55e1-c78f-488e-af93-514aa29721e4)
 
-Paspaudžius ant Help mygtuko gausime trumpą žaidimo valdymo ir eigos aprašą.
+Paspaudus ant Help mygtuko gausime trumpą žaidimo valdymo ir eigos aprašą.
 
 ![image](https://github.com/user-attachments/assets/d63df4af-b911-4bcb-85de-e27d972c0255)
 
