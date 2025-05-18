@@ -55,10 +55,14 @@ Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas 
 Taip pat yra kitokio tipo kliūtys, kurių žaidėjas gali išvengti tik tūpdamas, spaudžiant Down Arrow ↓ :
 - Laidas
 - Virus
+![Gameplay Screenshot](Packages/virus.png)
 
 Žaidėjas, vengdamas kliūčių taip pat stengiasi surinkti bonusus:
 - BonusP (Bonusas, kuris duoda žaidėjui atsparumą kliūtims 2 sekundes)
+![Gameplay Screenshot](Packages/lightning.png)
 - BonusB (Bonusas, kuris duoda žaidėjui dvigubai aukštesnį šokimo efektą 2 sekundes)
+![Gameplay Screenshot](Packages/jump.png)
 - BonusY(Bonusas, kuris duoda žaidėjui +10 auksinių monetų)
+![Gameplay Screenshot](Packages/lightning.png)
 
 ## Vartotojo dokumentacija
