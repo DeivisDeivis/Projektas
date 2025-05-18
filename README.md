@@ -36,7 +36,34 @@ Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas 
 
 ## Projekto testavimas
 
-----
+<details> <summary><strong>Veiksmų testavimo lentelė</strong></summary>
+| Veiksmas | Norimas rezultatas | Gautas rezultatas |
+|----------|--------------------|-------------------|
+| Spaudžiamas „Play“ mygtukas „Main Menu“ scenoje | Perėjimas į bėgimo sceną, paleidžiamas scenų perėjimo efektas, pakeičiama fono muzika, herojus pradeda bėgti | ✔ |
+| Spaudžiamas „Shop“ mygtukas „Main Menu“ scenoje | Perėjimas į parduotuvės sceną | ✔ |
+| Spaudžiamas „Options“ mygtukas „Main Menu“ scenoje | Mygtukai pakeičiami nustatymų meniu mygtukais | ✔ |
+| Slankoma „Volume“ juostos rodyklė „Options“ meniu | Žaidimo garsumas tylinamas slenkant rodyklę kairėn, garsinamas slenkant dešinėn | ✔ |
+| Spaudžiamas „Reset All Data“ mygtukas „Options“ meniu | Atidaromas patvirtinimo langas | ✔ |
+| Spaudžiamas „Cancel“ mygtukas „Reset All Data“ patvirtinimo lange | Patvirtinimo langas uždaromas | ✔ |
+| Spaudžiamas „Confirm“ mygtukas „Reset All Data“ patvirtinimo lange | „High score“ ir pinigėlių atitinkami „PlayerPrefs“ kintamieji perrašomi į 0, visų prekių būsenos parduotuvėje nustatomos į nepirktas, herojaus išvaizda bėgimo scenoje nustatoma į numatytąją, uždaromas patvirtinimo langas | ✔ |
+| Spaudžiamas „Back“ mygtukas „Options“ meniu | Grįžtama į pradinę „Main Menu“ konfigūraciją | ✔ |
+| Spaudžiamas „Help“ mygtukas „Main Menu“ scenoje | Atidaromas pagalbinės informacijos langas | ✔ |
+| Spaudžiamas „Back“ mygtukas „Help“ lange | Grįžtama į pradinę „Main Menu“ konfigūraciją | ✔ |
+| Spaudžiamas „Quit“ mygtukas „Main Menu“ scenoje | Žaidimas išjungiamas | ✔ |
+| Spaudžiamas klaviatūros „Spacebar“ mygtukas bėgimo scenoje | Užgesinamas (fade out) „Sprint“ efektas, herojus atsispiria nuo žemės, šoka aukštyn, po to leidžiasi iki bėgimo aukščio ir tęsia bėgimo animaciją, atgesinamas (fade in) „Sprint“ efektas | ✔ |
+| Spaudžiamas klaviatūros „↓“ mygtukas bėgimo scenoje | Herojus pradeda bėgti atsitūpęs | ✔ |
+| Herojus paima pinigėlį bėgimo scenoje | Paėmimo vietoje ir ant vartotojo sąsajos pinigėlių kiekio teksto vykdomas spindesio efektas, pridedamas vienetas prie turimų pinigėlių kiekio | ✔ |
+| Herojus paima „Vanish“ bonusą bėgimo scenoje | Herojus dviejoms sekundėms ignoruoja visus atsitrenkimus į kliūtis, atsitrenkus jas sunaikina, vartotojo sąsajoje paleidžiama „Vanish“ bonuso likusios trukmės animacija | ✔ |
+| Herojus paima „Jump“ bonusą bėgimo scenoje | Herojus dviejoms sekundėms klaviatūroje paspaudus „Spacebar“ gali pašokti dvigubai aukščiau, vartotojo sąsajoje paleidžiama „Jump“ bonuso likusios trukmės animacija | ✔ |
+| Herojus atsitrenkia į kliūtį bėgimo scenoje | Sustabdomas scenos objektų judėjimas bei herojaus valdymas, vykdoma mirties animacija, iš herojaus vieną kartą skleidžiasi mirties efektas, herojus leidžiasi iki bėgimo aukščio (jei atsitrenkė aukščiau), atidaromas „Game Over“ langas | ✔ |
+| Spaudžiamas „Reset“ mygtukas „Game Over“ lange | Išvalomi bėgimo sesijos metu sukurti objektai, išjungiamas „Game Over“ langas, paleidžiama herojaus bėgimo animacija, įjungiamas herojaus valdymas | ✔ |
+| Spaudžiamas „Back“ mygtukas „Game Over“ lange | Perėjimas į „Main Menu“ sceną, pakeičiama fono muzika | ✔ |
+| Spaudžiamas pirkimo mygtukas prie bet kurios iš pirmų keturių prekių, kai turima užtektinai pinigėlių kiek nurodyta prie mygtuko parduotuvės scenoje | Pakeičiama herojaus išvaizda bėgimo scenoje į atitinkamai nusipirktą | ✔ |
+| Spaudžiamas „Unequip“ mygtukas prie bet kurios iš pirmų keturių nusipirktų prekių parduotuvės scenoje | Herojaus išvaizda bėgimo scenoje nustatoma į numatytąją | ✔ |
+| Spaudžiamas „Equip“ mygtukas prie bet kurios iš pirmų keturių nusipirktų prekių parduotuvės scenoje | Pakeičiama herojaus išvaizda bėgimo scenoje į atitinkamai pasirinktą | ✔ |
+| Spaudžiamas „Refund All Items“ mygtukas parduotuvės scenoje | Žaidėjui grąžinama pirktų prekių kainų pinigėlių suma, visų prekių būsenos atstatomos į nepirktas, herojaus išvaizda bėgimo scenoje nustatoma į numatytąją | ✔ |
+| Spaudžiamas „Back“ mygtukas parduotuvės scenoje | Perėjimas į „Main Menu“ sceną | ✔ |
+</details>
 
 ## Žaidimo taisyklės
 
