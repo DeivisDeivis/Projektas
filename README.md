@@ -54,7 +54,8 @@ Taip pat yra kitokio tipo kliūtys, kurių žaidėjas gali išvengti tik tūpdam
 - Virus
 
 Žaidėjas, vengdamas kliūčių taip pat stengiasi surinkti bonusus:
-- BonusP (Bonusas kuris duoda žaidėjui atsparumą kliūtims 2 sekundes)
-- BonusB (Bonusas kuris duoda žaidėjui dvigubai aukštesnį šokimo efektą 2 sekundes)
-- BonusY(
+- BonusP (Bonusas, kuris duoda žaidėjui atsparumą kliūtims 2 sekundes)
+- BonusB (Bonusas, kuris duoda žaidėjui dvigubai aukštesnį šokimo efektą 2 sekundes)
+- BonusY(Bonusas, kuris duoda žaidėjui +10 auksinių monetų)
+
 ## Vartotojo dokumentacija
