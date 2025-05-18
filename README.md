@@ -58,11 +58,36 @@ Taip pat yra kitokio tipo kliūtys, kurių žaidėjas gali išvengti tik tūpdam
 ![Gameplay Screenshot](Packages/virus.png)
 
 Žaidėjas, vengdamas kliūčių taip pat stengiasi surinkti bonusus:
-- BonusP (Bonusas, kuris duoda žaidėjui atsparumą kliūtims 2 sekundes)
+- vanish (Bonusas, kuris duoda žaidėjui atsparumą kliūtims 2 sekundes)
 ![Gameplay Screenshot](Packages/vanish.png)
-- BonusB (Bonusas, kuris duoda žaidėjui dvigubai aukštesnį šokimo efektą 2 sekundes)
+- jump (Bonusas, kuris duoda žaidėjui dvigubai aukštesnį šokimo efektą 2 sekundes)
 ![Gameplay Screenshot](Packages/jump.png)
-- BonusY(Bonusas, kuris duoda žaidėjui +10 auksinių monetų)
+- ExtraGold (Bonusas, kuris duoda žaidėjui +10 auksinių monetų)
 ![Gameplay Screenshot](Packages/lightning.png)
 
 ## Vartotojo dokumentacija
+
+Žaidimo pradžioje yra matoma pradinė MainMeniu scena su pasirinkimais: Play, Shop, Options, Help, Quit:
+
+![image](https://github.com/user-attachments/assets/242b29b9-ef2c-42bc-b48e-05cd531f9650)
+
+Pasirinkus Play, pereiname į žaidimo sceną kurioje žmogeliukas jau bėga:
+
+![image](https://github.com/user-attachments/assets/1f5c270f-6a57-4752-b005-4d2747ef8aad)
+
+Mirstaa:
+
+![image](https://github.com/user-attachments/assets/c7237121-193a-432b-8eb5-d4b24f55c17f)
+
+
+Kai žaidėjas pasirenka vanish bonusą, žaidime atsiranda laiko juosta kuri parodo bonuso veikimo trukmę:
+
+![image](https://github.com/user-attachments/assets/ec9c0232-8f63-4f2e-878a-df0787ae6a8c)
+
+
+
+
+
+
+
+
