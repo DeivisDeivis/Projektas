@@ -36,7 +36,6 @@ Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas 
 
 ## Projekto testavimas
 
-<details> <summary><strong>Veiksmų testavimo lentelė</strong></summary>
 | Veiksmas | Norimas rezultatas | Gautas rezultatas |
 |----------|--------------------|-------------------|
 | Spaudžiamas „Play“ mygtukas „Main Menu“ scenoje | Perėjimas į bėgimo sceną, paleidžiamas scenų perėjimo efektas, pakeičiama fono muzika, herojus pradeda bėgti | ✔ |
@@ -63,7 +62,6 @@ Debug Dash yra 2D begalinio bėgimo žanro žaidimas, kuriame žaidėjo tikslas 
 | Spaudžiamas „Equip“ mygtukas prie bet kurios iš pirmų keturių nusipirktų prekių parduotuvės scenoje | Pakeičiama herojaus išvaizda bėgimo scenoje į atitinkamai pasirinktą | ✔ |
 | Spaudžiamas „Refund All Items“ mygtukas parduotuvės scenoje | Žaidėjui grąžinama pirktų prekių kainų pinigėlių suma, visų prekių būsenos atstatomos į nepirktas, herojaus išvaizda bėgimo scenoje nustatoma į numatytąją | ✔ |
 | Spaudžiamas „Back“ mygtukas parduotuvės scenoje | Perėjimas į „Main Menu“ sceną | ✔ |
-</details>
 
 ## Žaidimo taisyklės
 
